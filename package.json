@@ -1,0 +1,20 @@
+{
+  "name": "advent2023",
+  "version": "1.0.0",
+  "description": "advent of code solutions in ts",
+  "main": "day1.js",
+  "scripts": {
+    "run": "ts-node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.10.1",
+    "tsx": "^4.6.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
